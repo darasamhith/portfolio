@@ -1,0 +1,37 @@
+.experience-accord {
+  margin: 50px;
+  border-radius: 5px;
+  background-color: #1d1d1d;
+  border: 0.1px solid rgba(211, 211, 211, 0.397);
+  transition: all 0.2s ease-in-out;
+  /* padding: 50px; */
+}
+
+.experience-list {
+  width: 80%; /* Adjust width as needed, e.g., 60%, 800px, etc. */
+  max-width: 1200px; /* Prevents the content from getting too wide on large screens */
+  margin: 0 auto; /* Centers the content horizontally */
+  border-radius: 8px; /* Optional: Rounded corners */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Subtle shadow for depth */
+  padding: 20px; /* Padding inside the content */
+}
+
+.experience-accord:hover {
+  color: rgba(255, 255, 255, 1);
+  box-shadow: 0 5px 15px #e2405f;
+}
+
+.accord-panel {
+  font-family: "Google Sans Regular";
+}
+
+.accord {
+  background-color: black;
+}
+
+@media (max-width: 768px) {
+  .experience-accord {
+    margin: 20px;
+    padding: 20px;
+  }
+}
