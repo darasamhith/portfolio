@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://samhithdara.github.io",
+  "homepage": "https://darasamhith.github.io",
   "private": true,
   "dependencies": {
     "baseui": "^12.2.0",
