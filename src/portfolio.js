@@ -509,12 +509,13 @@ const experience = {
           duration: "May 2024 - Present",
           location: "Charlotte, USA",
           description:
-            "● ConductingresearchunderDr.QiongChengonanAI-drivenautomaticgradingsystemutilizingtheChatGPTAPI.\n" +
-            "● Designed a pipeline integrating OCR, NLP, and AI frameworks for extracting, analyzing, and grading student responses.\n" +
-            "● Developed scalable workflows with Python, employing libraries like Pandas, NumPy, and BeautifulSoup for data processing.\n" +
-            "● Enabledmulti-formatcompatibilitythroughseamlessintegrationofTesseract,spaCy,NLTK,andPyPDF2.\n" +
-            "● Co-authoringaresearchpaperdetailingmethodologiesandfindingsinAI-powerededucationalassessments.\n" +
-            "● InvestigatingdeploymentsolutionswithAWS,Flask,andDockerforsystemscalabilityandaccessibility.",
+          "● Conducting research under Dr. Qiong Cheng on an AI-powered automatic grading system using Retrieval-Augmented Generation (RAG) with ChatGPT API.\n"+
+          "● Designed and implemented a robust pipeline integrating OCR, NLP, and vector embeddings for automated extraction, semantic analysis, and grading of student responses.\n"+
+          "● Built scalable workflows in Python, leveraging libraries such as Pandas, NumPy, and BeautifulSoup for efficient data processing.\n"+
+          "● Achieved multi-format document compatibility by integrating tools like Tesseract, spaCy, NLTK, and PyPDF2, enabling seamless handling of PDFs and handwritten documents.\n"+
+          "● Developed vector embedding indexes from standard algorithms and data structures textbooks to enable precise grading through semantic search.\n"+
+          "● Co-authoring a research paper on innovative approaches in AI-driven educational assessment systems.\n"+
+          "● Prototyped scalable deployment solutions using AWS, Flask, Docker, and KDB.AI to ensure system efficiency and accessibility.",
           color: "#f10000",
         },
         {
@@ -525,9 +526,14 @@ const experience = {
           duration: "Jan 2021 - May 2023",
           location: "Bangalore, India",
           description:
-            "• Architected AWS cloud infrastructure, reducing complexity by 40% and improving scalability\n" +
-            "• Developed microservices using AWS SageMaker, ECS, and EC2 Mac Instances for Apple Vision Pro platform\n" +
-            "• Optimized video processing pipeline, reducing rendering time by 25%",
+          "● Designed, developed, and deployed an automation process using microservices architecture on Amazon EC2 with AWS services (RDS, S3, Secrets) and auto-scaling capabilities.\n"+
+          "● Created a content extraction process for client documents using multi-level extraction techniques with Soroco-specific extractor and Amazon Textract.\n"+
+          "● Implemented Azure pipelines to ensure adherence to standards and publish code to an Amazon S3 bucket.\n"+
+          "● Built Python codebases for mailbox and SharePoint interactions, automating ordering, delivery, pickup, and returns in SAP business applications across five countries with dynamic adjustments.\n"+
+          "● Developed a smart workbench interface using AngularJS and Django, enabling client monitoring of RPA system progress.\n"+
+          "● Designed a Python-based pattern recognition model for document data extraction and built a signature detection model using OpenCV, achieving 70% accuracy.\n"+
+          "● Created a REST API with Django for live database interaction and deployed the project as a Docker image to an AKS cluster.\n"+
+          "● Built a dynamic interface with HTML, CSS, and JavaScript, incorporating LDAP authentication for secure login.\n",
           color: "#2962FF",
         },
       ],
