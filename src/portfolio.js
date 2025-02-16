@@ -9,7 +9,7 @@ const settings = {
 
 //Home Page
 const greeting = {
-  title: "Hello.",
+  title: "Hello There!",
   title2: "Samhith",
   logo_name: "samhith dara",
   nickname: "samhith",
@@ -18,7 +18,7 @@ const greeting = {
     "Python Developer, Robotic Process Automation Developer, Cloud Enthusiast. Always learning.",
   contactme: "Contact me below—I'll reply soon!",
   resumeLink:
-    "https://docs.google.com/document/d/1CoUSZBd5h6F1jTN3Qr9b-no353g3KurmXxAgoXo-9VI/edit?usp=sharing",
+    "https://drive.google.com/file/d/1xDQrQzu-dy7JvZLdtQC9FGDCm26sxmC5/view?usp=sharing",
   mail: "mailto:samhithdara@gmail.com",
 };
 
@@ -495,7 +495,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I've completed three years as software developer. I've mostly done projects on my own and I am actively looking for Full time roles. I love organizing workshops to share my knowledge with others.",
+    "AI-driven Research Assistant with expertise in RAG-based automatic grading systems, full-stack development, and scalable automation solutions, leveraging advanced Python, cloud technologies, and machine learning frameworks to drive innovation in education and business applications.",
   header_image_path: "experience.svg",
   sections: [
     {

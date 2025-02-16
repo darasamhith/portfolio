@@ -32,12 +32,16 @@ function Experience(props) {
               >
                 {experience["subtitle"]}
               </h3>
-              <p
+              <ul
                 className="experience-header-detail-text subTitle"
                 style={{ color: theme.secondaryText }}
               >
-                {experience["description"]}
-              </p>
+                {experience["description"]
+                .split("\n")
+                .map((line, index) => (
+                  <li key={index}>{line}</li>
+                ))}
+              </ul>
             </div>
           </div>
         </Fade>

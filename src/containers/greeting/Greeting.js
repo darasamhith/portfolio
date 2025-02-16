@@ -55,7 +55,7 @@ export default function Greeting(props) {
                 <button
                   {...styles}
                   className="button"
-                  href={greeting.resumeLink}
+                  onClick={() => window.location.href = greeting.resumeLink}
                 >
                   See my Resume
                 </button>
