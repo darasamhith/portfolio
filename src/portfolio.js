@@ -18,7 +18,7 @@ const greeting = {
     "Python Developer, Robotic Process Automation Developer, Cloud Enthusiast. Always learning.",
   contactme: "Contact me below—I'll reply soon!",
   resumeLink:
-    "https://drive.google.com/file/d/1xDQrQzu-dy7JvZLdtQC9FGDCm26sxmC5/view?usp=sharing",
+    "https://drive.google.com/file/d/1lSkhCcBQZpytLodhVl512Ru-GApepwcj/view?usp=sharing",
   mail: "mailto:samhithdara@gmail.com",
 };
 
@@ -356,140 +356,6 @@ const degree_atc = {
   ],
 };
 
-const certifications = {
-  certifications: [
-    {
-      title: "AWS Developer Associate",
-      subtitle: "Amazon Web Services",
-      logo_path: "aws.png",
-      certificate_link:
-        "https://www.credly.com/badges/b12fbece-07f3-47f5-9dda-cd56f49e250d/public_url",
-      alt_name: "AWS",
-      color_code: "#ffc475",
-    },
-    {
-      title: "AWS Certified Cloud Practioner",
-      subtitle: "Amazon Web Services",
-      logo_path: "aws.png",
-      certificate_link:
-        "https://www.credly.com/badges/8b2db191-702d-427c-91aa-0f926be447a6/public_url",
-      alt_name: "AWS",
-      color_code: "#ffc475",
-    },
-    {
-      title: "Google Summer of Code 2019",
-      subtitle: "Google / Sugar Labs",
-      logo_path: "google_logo.png",
-      certificate_link: " ",
-      alt_name: "Google",
-      color_code: "#ffc475",
-    },
-    {
-      title: "Google Code-In Student",
-      subtitle: "2014-2017",
-      logo_path: "google_logo.png",
-      certificate_link: " ",
-      alt_name: "Google",
-      color_code: "#1e70c1",
-    },
-    {
-      title: "Google Summer of Code Mentor",
-      subtitle: "2017 / 2018 / 2020",
-      logo_path: "google_logo.png",
-      certificate_link: " ",
-      alt_name: "Google",
-      color_code: "#ffbfae",
-    },
-    {
-      title: "Google Code-In Mentor",
-      subtitle: "2017 / 2018 / 2019",
-      logo_path: "google_logo.png",
-      certificate_link: " ",
-      alt_name: "Google",
-      color_code: "#b190b0",
-    },
-    {
-      title: "Deep Learning Specialization",
-      subtitle: "deeplearning.ai",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://coursera.org/share/737a9587023c666b8e6cb303157aaeba",
-      alt_name: "deeplearning.ai",
-      color_code: "#47A048",
-    },
-    {
-      title: "Sequence Models",
-      subtitle: "deeplearning.ai",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/FM5AKEZA9NUY",
-      alt_name: "deeplearning.ai",
-      color_code: "#F6B808",
-    },
-    {
-      title: "Convolutional Neural Networks",
-      subtitle: "deeplearning.ai",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/U8BLDNUT9UUM",
-      alt_name: "deeplearning.ai",
-      color_code: "#2AAFED",
-    },
-    {
-      title: "Structuring Machine Learning Projects",
-      subtitle: "deeplearning.ai",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/YLC25SJQKH3Y",
-      alt_name: "deeplearning.ai",
-      color_code: "#E2405F",
-    },
-    {
-      title: "Machine Learning",
-      subtitle: "deeplearning.ai",
-      logo_path: "stanford_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/records/72KY93DT82MP",
-      alt_name: "Stanford University",
-      color_code: "#8C151599",
-    },
-    {
-      title: "Neural Networks and Deep Learning",
-      subtitle: "deeplearning.ai",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/records/25JXRB2RWHRX",
-      alt_name: "Google",
-      color_code: "#7A7A7A",
-    },
-    {
-      title: "Improving Deep Neural Networks",
-      subtitle: "deeplearning.ai",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/records/PKR9M9LQ3JWC",
-      alt_name: "Google",
-      color_code: "#0C9D5899",
-    },
-    {
-      title: "Android Developer Nanodegree",
-      subtitle: "Part of Google India Scholarship Program",
-      logo_path: "100.png",
-      certificate_link: "https://graduation.udacity.com/confirm/HLE7K5V3",
-      alt_name: "Google",
-      color_code: "#C5E2EE",
-    },
-    {
-      title: "InOut 4.0 Winner #2",
-      subtitle: "2017",
-      logo_path: "ino.png",
-      certificate_link: " ",
-      alt_name: "InOut",
-      color_code: "#fffbf3",
-    },
-  ],
-};
-
 // Experience Page
 const experience = {
   title: "Experience",
@@ -538,101 +404,6 @@ const experience = {
         },
       ],
     },
-    // {
-    //   title: "Internships",
-    //   experiences: [
-    //     {
-    //       title: "Google Summer of Code",
-    //       company: "Sugar Labs",
-    //       company_url: "https://sugarlabs.org/",
-    //       logo_path: "google_logo.png",
-    //       duration: "May 2019 - Aug 2019",
-    //       location: "Work From Home",
-    //       description:
-    //         "I worked on the Dashboard project which helps users track their activities while using Sugar OS. I also worked on making a Tamagotchi-like widget for Sugar's Home Screen",
-    //       color: "#ee3c26",
-    //     },
-    //     {
-    //       title: "Android App Developer Intern",
-    //       company: "IAS4Sure",
-    //       company_url: " ",
-    //       logo_path: "buld.jpg",
-    //       duration: "December 2019 - February 2020",
-    //       location: "Work From Home",
-    //       description:
-    //         "Internship task was to make a native Android application. ",
-    //       color: "#0071C5",
-    //     },
-    //     {
-    //       title: "Web Developer",
-    //       company: "Wrighter Writing Solutions",
-    //       company_url: " ",
-    //       logo_path: "wrighter.jpg",
-    //       duration: "August 2020",
-    //       location: "",
-    //       description: "Develop a website using PHP and jQuery.",
-    //       color: "#56A4D3",
-    //     },
-    //     {
-    //       title: "Front-End Developer",
-    //       company: "VJ TechServe",
-    //       company_url: " ",
-    //       logo_path: "vjt.png",
-    //       duration: "September 2020",
-    //       location: "",
-    //       description: "Develop a portfolio website using ReactJS",
-    //       color: "#800000",
-    //     },
-    //   ],
-    // },
-    // {
-    //   title: "Volunteerships",
-    //   experiences: [
-    //     {
-    //       title: "Google Summer of Code Mentor",
-    //       company: "Sugar Labs / GSoC",
-    //       company_url: "https://sugarlabs.org/",
-    //       logo_path: "google_logo.png",
-    //       duration: "Summer of 2017 / 18 / 20",
-    //       location: " ",
-    //       description:
-    //         "Mentorship responsibilities were to help students plan the project, review issues and pull requests, ensure smooth progress and help them out when they are stuck.",
-    //       color: "#4285F4",
-    //     },
-    //     {
-    //       title: "Google Code-In Mentor",
-    //       company: "Sugar Labs / GSoC",
-    //       company_url: "https://sugarlabs.org/",
-    //       logo_path: "google_logo.png",
-    //       duration: "Winter of 2017 / 18 / 19",
-    //       location: " ",
-    //       description:
-    //         "Day to day resposibilites of this mentorship was to help out children aged 13-17 get started with programming and open-source, review their work and approve them.",
-    //       color: "#D83B01",
-    //     },
-    //     {
-    //       title: "Board Member at Codeuino",
-    //       company: " ",
-    //       company_url: " ",
-    //       logo_path: "codeuino.jpg",
-    //       duration: "2018 - 2019",
-    //       location: " ",
-    //       description: "Previous Board during early days of Codeuino",
-    //       color: "#D83B01",
-    //     },
-    //     {
-    //       title: "BluWings Club",
-    //       company: " ",
-    //       company_url: " ",
-    //       logo_path: "b.png",
-    //       duration: "2018 - On Going",
-    //       location: " ",
-    //       description:
-    //         "Co-Founder and President of the programming club called BluWings. Have organized several workshops which introduced programming and related tools to freshers.",
-    //       color: "#D83B01",
-    //     },
-    //   ],
-    // },
   ],
 };
 
@@ -665,7 +436,6 @@ const projects = {
   data: [
     {
       name: "RPA",
-      // url: "http://apifi.io/",
       description:
         "A Rpbotic process Automation project to automate all the tasks they do manually everyday saving 30 hours per week.",
       languages: [
@@ -685,14 +455,6 @@ const projects = {
           name: "Mysql",
           iconifyClass: "devicon-mysql",
         },
-        // {
-        //   name: "DynamoDB",
-        //   iconifyClass: "devicon-dynamodb",
-        // },
-        // {
-        //   name: "Redis",
-        //   iconifyClass: "devicon-redis",
-        // },
       ],
     },
     {
@@ -703,19 +465,19 @@ const projects = {
       languages: [
         {
           name: "Python",
-          iconifyClass: "devicon-python",
+          iconifyClass: "logos:python",
         },
         {
           name: "Tensorflow",
-          iconifyClass: "devicon-tensorflow-plain",
+          iconifyClass: "devicon:tensorflow",
         },
         {
           name: "Machine Learning",
-          iconifyClass: "devicon-ml",
+          iconifyClass: "eos-icons:machine-learning",
         },
         {
           name: "Database",
-          iconifyClass: "devicon-db",
+          iconifyClass: "material-symbols:database",
         },
       ],
     },
@@ -756,13 +518,17 @@ const projects = {
       ],
     },
     {
-      name: "Portfolio",
+      name: "Personal Portfolio - Built with React",
       url: "",
-      description: "(This) A clean and full customizable portfolio template.",
+      description: "A modern, responsive portfolio website built using React.js to showcase my projects, experience, and skills. Features a sleek UI with dynamic animations, interactive components, and custom logos. Optimized for performance and deployed for seamless access.",
       languages: [
         {
           name: "ReactJS",
           iconifyClass: "logos-react",
+        },
+        {
+          name: "JavaScript",
+          iconifyClass: "logos-javascript",
         },
       ],
     },
@@ -838,12 +604,12 @@ const projects = {
         },
         {
           name: "Django",
-          iconifyClass: "logos-django",
+          iconifyClass: "skill-icons:django",
         },
-        // {
-        //   name: "Tensorflow",
-        //   iconifyClass: "logos-tensorflow", Tech Stack: Docker, Python, AlphaRTC, Bash.
-        // },
+        {
+          name: "Docker",
+          iconifyClass: "vscode-icons:file-type-docker2", // Tech Stack: Docker, AlphaRTC, Bash.
+        },
       ],
     },
   ],
@@ -856,7 +622,6 @@ export {
   skills,
   degrees,
   degree_atc,
-  certifications,
   experience,
   projectsHeader,
   contactPageData,
